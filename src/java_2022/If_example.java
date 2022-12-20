@@ -7,7 +7,7 @@ public class If_example {
 		int a=10;
 			if (a==10)
 			{
-				System.out.println("the age is "+a);
+				//System.out.println("the age is "+a);
 	
 			}
 			else
