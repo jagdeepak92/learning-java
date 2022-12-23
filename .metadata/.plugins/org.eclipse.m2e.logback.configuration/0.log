@@ -2174,3 +2174,7 @@ Caused by: java.io.EOFException: no more data available START_DOCUMENT seen \t..
 2022-12-22 11:31:00,723 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-12-22 11:31:00,725 [Worker-27: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-12-22 11:31:00,727 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-12-22 18:45:07,357 [Worker-108: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-22 18:45:07,369 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-12-22 18:45:07,375 [Worker-108: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-12-22 18:45:07,377 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource

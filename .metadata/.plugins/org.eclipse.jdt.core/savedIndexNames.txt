@@ -3,7 +3,6 @@ INDEX VERSION 1.131+X:\learning java\java_2022\.metadata\.plugins\org.eclipse.jd
 2222561.index
 1234438216.index
 1640820106.index
-940774416.index
 3038463829.index
 1832735573.index
 1914428837.index

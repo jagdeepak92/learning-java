@@ -3021,3 +3021,9 @@ java.io.EOFException: no more data available START_DOCUMENT seen \t... @1:1
 
 !ENTRY org.eclipse.pde.launching 4 0 2022-12-22 12:01:13.893
 !MESSAGE The application could not start. Details can be found in the log.
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-22 18:45:07.367
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2022-12-22 18:45:07.376
+!MESSAGE Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
