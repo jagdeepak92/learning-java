@@ -3,6 +3,30 @@ package java_2022;
 public class Array {
 
 	public static void main(String[] args) {
+
+		int b[]= {5,2,4,3};
+		for (int i=3;i<=b.length;i--)
+		{
+			if(i<0)
+			{
+				break;
+			}
+			System.out.print(b[i]);
+		}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
 		//int array[]= {1,2,3,5,6,7,90,879098};
 
 		//	System.out.println(array[5]);
@@ -27,15 +51,6 @@ public class Array {
 		}
 		*/
 		//int b= new int[4];
-		int b[]= {5,2,4,3};
-		for (int i=3;i<=b.length;i--)
-		{
-			if(i<0)
-			{
-				break;
-			}
-			System.out.print(b[i]);
-		}
 		
 		
 		
